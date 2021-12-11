@@ -29,7 +29,7 @@ def gcd():
 ~~~
 
 ## Output:
-![github logo](screen.png)
+![github logo](https://user-images.githubusercontent.com/94165957/145678298-0ff40a56-3d97-4aa3-919e-045e38faeb66.png)
 
 
 ## Result:
